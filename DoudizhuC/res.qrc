@@ -1,0 +1,67 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/214833-120P41A11846.jpg</file>
+        <file>pic/214833-120P41A43836.jpg</file>
+        <file>pic/214833-120P41AK868 .jpg</file>
+        <file>pic/214833-120P4164K869.jpg</file>
+        <file>pic/BLACK JOKER.png</file>
+        <file>pic/C2.png</file>
+        <file>pic/C3.png</file>
+        <file>pic/C4.png</file>
+        <file>pic/C5.png</file>
+        <file>pic/C6.png</file>
+        <file>pic/C7.png</file>
+        <file>pic/C8.png</file>
+        <file>pic/C9.png</file>
+        <file>pic/C10.png</file>
+        <file>pic/CA.png</file>
+        <file>pic/CJ.png</file>
+        <file>pic/CK.png</file>
+        <file>pic/CQ.png</file>
+        <file>pic/D2.png</file>
+        <file>pic/D3.png</file>
+        <file>pic/D4.png</file>
+        <file>pic/D5.png</file>
+        <file>pic/D6.png</file>
+        <file>pic/D7.png</file>
+        <file>pic/D8.png</file>
+        <file>pic/D9.png</file>
+        <file>pic/D10.png</file>
+        <file>pic/DA.png</file>
+        <file>pic/DJ.png</file>
+        <file>pic/DK.png</file>
+        <file>pic/DQ.png</file>
+        <file>pic/H2.png</file>
+        <file>pic/H3.png</file>
+        <file>pic/H4.png</file>
+        <file>pic/H5.png</file>
+        <file>pic/H6.png</file>
+        <file>pic/H7.png</file>
+        <file>pic/H8.png</file>
+        <file>pic/H9.png</file>
+        <file>pic/H10.png</file>
+        <file>pic/HJ.png</file>
+        <file>pic/HK.png</file>
+        <file>pic/HQ.png</file>
+        <file>pic/PADDING.png</file>
+        <file>pic/RED JOKER.png</file>
+        <file>pic/S2.png</file>
+        <file>pic/S3.png</file>
+        <file>pic/S4.png</file>
+        <file>pic/S5.png</file>
+        <file>pic/S6.png</file>
+        <file>pic/S7.png</file>
+        <file>pic/S8.png</file>
+        <file>pic/S9.png</file>
+        <file>pic/S10.png</file>
+        <file>pic/SA.png</file>
+        <file>pic/SJ.png</file>
+        <file>pic/SK.png</file>
+        <file>pic/SQ.png</file>
+        <file>pic/dizhu.png</file>
+        <file>pic/background.png</file>
+        <file>pic/play.jpg</file>
+        <file>pic/play2.png</file>
+        <file>pic/HA.png</file>
+    </qresource>
+</RCC>
